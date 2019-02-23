@@ -1,0 +1,63 @@
+#body{
+    width: 100px;
+    height: 1500px;
+}
+#parentTitleBox{
+    margin: 35px auto auto 10px;
+}
+
+.titleBox{
+    height: 100px;
+    width: 400px;
+    background-color:coral;
+    display: table-cell;
+    vertical-align:middle;
+    text-align:center;
+    color:white;
+    font-size:40px;
+}
+
+
+#instructionBox{
+    margin: 35px auto auto 10px;
+    width: 600px;
+    height:500px;
+    background-color: yellowgreen;
+
+}
+#parentRanWLBox{
+    margin: 35px 0 0 10px;
+    width: 600px;
+    height: 250px;
+    background-color:skyblue;
+    
+}
+.randomNumBox{
+    float: left;
+    width: 55%;
+    height: 100%;
+    background-color:blue;
+
+}
+.winLoseBox{
+    width: 40%;
+    height: 100%;
+     background-color: rgb(255, 51, 0);
+     float:right;
+     
+}
+#parentGameButtons{
+    height: 100px;
+    width: 600px;
+    background-color:olivedrab;
+    margin: 35px auto auto 10px;
+
+}
+.box{
+    width:130px;
+    height:100%;
+    background-color:lightseagreen;
+    margin: 0 10px 0 10pxc;
+    float: left;
+
+}
